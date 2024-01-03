@@ -13,20 +13,21 @@
 	 display: inline-block;
 }
  body {
-	 background: #000000;
+	 background: linear-gradient(to right, #E2BCBB, #E4514A);
 	 color: #fff;
 }
  a {
-	 color: #808000
+	 color: #0a0a00
 }
  h1 {
-	 color: #008080
+	 color: #290f28
 }
  p {
-	 color: #008000
+	text-align: center;
+	 color: #e6ede6
 }
  ol {
-	 color: #008000
+	 color: #011001
 }
 html {
 
@@ -47,3 +48,12 @@ html {
 		background-size: cover;
 		
 		}
+.main {
+	position: absolute;
+    top: 100px;
+    left: 250px;
+}
+.box {
+	margin-left: 50px;
+
+}
