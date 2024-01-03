@@ -28,11 +28,22 @@
  ol {
 	 color: #008000
 }
-.container {
-	width: 1500px;
-	height: 400px;
-	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
-	}
-	.col-1-2 {
-	width: 50%;
-	}
+html {
+
+		background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+		
+		background-repeat: no-repeat;
+		
+		background-position: center center;
+		
+		background-attachment: fixed;
+		
+		-webkit-background-size: cover;
+		
+		-moz-background-size: cover;
+		
+		-o-background-size: cover;
+		
+		background-size: cover;
+		
+		}
